@@ -3,11 +3,12 @@ create users display app
 
 #### Tags 
 Reacts , state and props 
+
 ### Getting Started
 
-1. Fork this repository.
-2. Clone the forked app from your github account.
-3. navigate inside the clone repository folder and run following command.
+Please ensure that you don't have  " " (space or special characters) in your folder names else tests may not run properly.
+
+1. navigate inside the clone repository folder and run following command.
    - `npm install` - To install the dependencies
    - `npm start` - To Start running the application.
 ### Users Display 
