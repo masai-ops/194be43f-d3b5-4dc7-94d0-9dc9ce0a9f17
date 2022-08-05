@@ -26,8 +26,8 @@ Please ensure that you don't have  " " (space or special characters) in your fol
     - followers (number of followers)
     - posts (number of posts)
     - isFollowing (boolean, )
-        - if true then a button to show unfollow
-        - if false then a button to show follow
+        - if true then a button to show `Unfollow`
+        - if false then a button to show `Follow`
 - use the given JSON file to create the list of UserDetails
 - you may use module css to achieve the output (minimum inline styles)
 - Add a sort option
